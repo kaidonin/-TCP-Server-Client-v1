@@ -54,8 +54,8 @@ int main()
 	name = name + ">" ;
 
 	
-	string ipAddress = "127.0.0.1"; // IP address of the server
-	int port = 54000;               // Listening port on the server
+	string ipAddress = "127.0.0.1";
+	int port = 54000;              
 
 	// Initialize Winsock
 	WSADATA data;
