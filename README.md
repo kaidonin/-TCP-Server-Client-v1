@@ -73,10 +73,7 @@ If you plan to run the client on a **mobile device**, you must:
 `./server `
 `./client `
 
-👤 Author
-Zakaria
-Cybersecurity student at FSR, Morocco.
-Passionate about secure communications and ethical hacking.
+
 
 📜 License
 This project is free to use for learning and educational purposes.
