@@ -13,7 +13,7 @@ This project is a simple TCP server and client system written in C++. It enables
 - Clients can send messages that are:
   - XOR-encrypted on the client side
   - broadcasted by the server to all connected clients
-- Messages include the sender's username (e.g. `Zakaria>Hello`).
+- Messages include the sender's username 
 
 ---
 
